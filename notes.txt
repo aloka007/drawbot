@@ -1,0 +1,7 @@
+Setting current on A4988 driver
+
+
+
+MC current =  1.5 (A)
+MA current =  1.7 A
+Rs = 0.1 ohms

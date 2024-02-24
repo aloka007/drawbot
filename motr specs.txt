@@ -1,0 +1,68 @@
+Creality motor
+Specifications:
+
+Item number: 42-40
+Step angle: 1.8 degrees
+Nominal Voltage: 4.83V
+Current Rating: 1.5 (A)
+Rated speed: 1-1000 (rpm)
+Rated torque: 0.4 (NM)
+Ambient Temperature: -20℃~+50℃
+Length: 40mm
+
+
+
+Nema 17 17HS4401 Stepper Motor
+
+Model
+	17HS4401 
+Phase
+	2
+Step Angle
+	1.8°
+Motor Size
+	42 x 40mm
+Shaft
+	"D" shaft 21 x Ф5mm
+Outlet way
+	"4" plug line
+Motor leads
+	Dupont line(1M)
+Adapter drive
+	Two-phase step drive
+Rated Current
+	1.7A
+Resistance/Phase
+	1.5Ω
+Inductance/Phase
+	2.8mH
+Holding Torque
+	40N.cm
+Couple Relaxing
+	2.2N.cm
+Inertia Of Rotor
+	54G. cm²
+Leads
+	4
+Precision angle step
+	±5% (full step, no charge)
+Resistance accuracy
+	±10%
+Precision inductance
+	±20%
+Temperature rise
+	80deg Max (rated current, 2 phase on)
+Ambient temperature
+	( - 20°)-(+ 50°)
+Insulation resistance
+	100MΩ Min, 500VDC
+Insulation Force
+	500VAC for a minute
+Scope
+	
+
+3D Printers, Monitor Equipment, Medical Machinery, Textile Machinery,
+
+Packaging Machinery, Stage Lighting, Laser engraving, Automation Equipment,
+
+Non-standard Equipment, Placement machine etc.
